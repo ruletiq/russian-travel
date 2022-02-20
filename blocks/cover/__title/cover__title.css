@@ -5,6 +5,13 @@
     width: 560px;
     text-align: center;
     margin: 245px auto 32px;
-    z-index: 1;
+    z-index: 10;
     
+}
+
+@media screen and (max-width: 1279px) {
+    .cover__title {
+        margin: 197px auto 32px;
+        
+    }
 }

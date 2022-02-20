@@ -5,3 +5,10 @@
     text-align: end;
     
 }
+
+@media screen and (max-width: 1279px) {
+    .footer__copyright {
+        margin: 4px 3px 0;
+        
+    }
+}

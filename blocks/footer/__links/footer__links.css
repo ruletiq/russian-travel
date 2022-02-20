@@ -6,3 +6,10 @@
     gap: 18px;
     
 }
+
+@media screen and (max-width: 1279px) {
+    .footer__links {
+        gap: 19px;
+        
+    }
+}

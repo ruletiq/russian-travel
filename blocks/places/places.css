@@ -2,6 +2,13 @@
    max-width: 984px;
    display: flex;
    flex-direction: column;
-   padding: 92px 100px;
+   padding: 92px 0;
    gap: 80px;
+}
+
+@media screen and (max-width: 1279px) {
+   .places {
+      padding: 91px 0;
+       
+   }
 }

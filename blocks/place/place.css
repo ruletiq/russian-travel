@@ -5,3 +5,12 @@
     gap: 48px 40px;
     
 }
+
+@media screen and (max-width: 1279px) {
+    .place {
+        grid-template-columns: 440px 1fr;
+        grid-template-rows: 1fr max-width;
+        gap: 48px 32px;
+        
+    }
+}
