@@ -1,0 +1,10 @@
+.page {
+    font-family: "Inter";
+    color: #ffffff;
+    background-color: #2A2C2F;
+    
+}
+
+section, div, p, h1, h2, h3, ul, li, a {
+    outline: 1px red dashed;
+}
