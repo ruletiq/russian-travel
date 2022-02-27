@@ -1,6 +1,6 @@
 .page {
     min-width: 320px;
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     color: #ffffff;
     background-color: #2A2C2F;
 
@@ -12,6 +12,6 @@
     
 }
 
-/* section, div, p, h1, h2, h3, ul, li, a {
+section, div, p, h1, h2, h3, ul, li, a {
     outline: 1px red dashed;
-} */
+}
