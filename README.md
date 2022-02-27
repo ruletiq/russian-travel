@@ -14,6 +14,10 @@ The following main tools were used in the development process:
 4. *Grid layout*
 5. *Using relative values*
 
+## Link
+
+https://ruletiq.github.io/russian-travel/
+
 ## Author
 
 Evgeniy Agalarov
@@ -35,6 +39,10 @@ Evgeniy Agalarov
 3. *Позиционирование*
 4. *Грид верстка*
 5. *Использование относительных величин*
+
+## Ссылка
+
+https://ruletiq.github.io/russian-travel/
 
 ## Автор
 
