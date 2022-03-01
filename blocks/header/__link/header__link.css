@@ -11,10 +11,6 @@
     margin: 0;
 }
 
-.header__link:active {
-    text-decoration: underline;
-}
-
 .header__link:hover {
     opacity: 0.8;
 }
